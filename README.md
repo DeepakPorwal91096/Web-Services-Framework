@@ -1,3 +1,4 @@
+Java jdk18
 Web Application Frameworks are server-side software frameworks designed to enhance the development, maintenance, and scalability of web applications. These frameworks offer a suite of tools and libraries that streamline various web development tasks. In the context of web communication, servers and browsers interact via the HTTP protocol, with servers responding to HTTP requests from browsers.
 
 
